@@ -1,0 +1,90 @@
+zone,lat,lon,type,risk
+Velachery Lake Area,12.9780,80.2210,flood,high
+Pallikaranai Marsh,12.9340,80.2170,flood,high
+Adyar River Bank,13.0050,80.2500,flood,medium
+Cooum River Basin,13.0800,80.2700,flood,high
+T Nagar Low Area,13.0410,80.2300,flood,medium
+Madipakkam Lake Area,12.9650,80.1980,flood,high
+Medavakkam Lake Zone,12.9180,80.1920,flood,medium
+Perungudi Marshland,12.9600,80.2400,flood,high
+Sholinganallur Lake Area,12.9010,80.2270,flood,medium
+Tambaram Lowland Zone,12.9240,80.1000,flood,high
+Chromepet Flood Zone,12.9510,80.1400,flood,medium
+Pallavaram Lake Area,12.9680,80.1490,flood,high
+Porur Lake Zone,13.0350,80.1580,flood,high
+Ambattur Lake Area,13.1140,80.1540,flood,medium
+Korattur Lake Area,13.1110,80.1830,flood,medium
+Retteri Lake Area,13.1320,80.2200,flood,high
+Madhavaram Lake Zone,13.1480,80.2300,flood,medium
+Red Hills Lake Zone,13.1850,80.2000,flood,high
+Kolathur Low Area,13.1240,80.2150,flood,medium
+Manali Industrial Zone,13.1700,80.2700,chemical,high
+Ennore Port Area,13.2150,80.3200,chemical,medium
+North Chennai Refinery Area,13.2100,80.3000,chemical,high
+Tondiarpet Oil Storage Area,13.1300,80.2900,chemical,high
+Kathivakkam Chemical Storage,13.2160,80.3170,chemical,high
+Manali Petrochemical Area,13.1650,80.2680,chemical,high
+Ennore Industrial Port Zone,13.2200,80.3250,chemical,medium
+Perambur Railway Chemical Yard,13.1060,80.2460,chemical,medium
+Royapuram Dock Chemical Area,13.1130,80.2950,chemical,medium
+Guindy Industrial Estate,13.0125,80.2130,fire,medium
+Ambattur Industrial Estate,13.0990,80.1640,fire,high
+SIDCO Industrial Area,13.1020,80.1950,fire,medium
+Chromepet Industrial Area,12.9510,80.1400,fire,medium
+Guindy SIDCO Estate,13.0130,80.2120,fire,medium
+Ambattur SIDCO Zone,13.0970,80.1620,fire,high
+Perungudi Industrial Estate,12.9600,80.2440,fire,medium
+Thirumudivakkam Industrial Zone,12.9600,80.1100,fire,high
+Padi Industrial Area,13.0960,80.1840,fire,medium
+Mogappair Industrial Cluster,13.0830,80.1680,fire,medium
+Manapakkam Industrial Zone,13.0200,80.1800,fire,medium
+OMR Coastal Area,12.9000,80.2300,tsunami,medium
+Marina Beach Coastal Belt,13.0500,80.2820,tsunami,high
+Besant Nagar Coastal Area,13.0000,80.2700,tsunami,high
+East Coast Road Coastal Zone,12.8800,80.2500,tsunami,medium
+Thiruvanmiyur Coastal Zone,12.9830,80.2590,tsunami,high
+Neelankarai Coastal Zone,12.9490,80.2580,tsunami,medium
+Palavakkam Coastal Zone,12.9600,80.2550,tsunami,medium
+Kottivakkam Coastal Area,12.9680,80.2590,tsunami,medium
+Injambakkam Coastal Zone,12.9160,80.2500,tsunami,medium
+Uthandi Coastal Area,12.8700,80.2500,tsunami,high
+Chennai Central Zone,13.0827,80.2750,earthquake,low
+Anna Nagar Residential Zone,13.0878,80.2102,earthquake,low
+Mylapore Residential Zone,13.0330,80.2690,earthquake,low
+T Nagar Residential Area,13.0410,80.2340,earthquake,low
+Kodambakkam Residential Zone,13.0520,80.2260,earthquake,low
+Vadapalani Residential Zone,13.0500,80.2120,earthquake,low
+Nungambakkam Residential Zone,13.0600,80.2420,earthquake,low
+Egmore Urban Zone,13.0730,80.2600,earthquake,low
+Kilpauk Residential Area,13.0820,80.2350,earthquake,low
+Purasawalkam Urban Zone,13.0900,80.2550,earthquake,low
+Royapettah Urban Zone,13.0550,80.2630,earthquake,low
+Triplicane Urban Area,13.0580,80.2750,earthquake,low
+Chintadripet Urban Zone,13.0730,80.2690,earthquake,low
+Perambur Residential Area,13.1060,80.2460,earthquake,low
+Ayanavaram Urban Area,13.0980,80.2320,earthquake,low
+Villivakkam Residential Area,13.1100,80.2060,earthquake,low
+Korattur Residential Zone,13.1110,80.1830,earthquake,low
+Mogappair Residential Zone,13.0830,80.1680,earthquake,low
+Kolathur Residential Zone,13.1240,80.2150,earthquake,low
+Madhavaram Residential Area,13.1480,80.2300,earthquake,low
+Manali Gas Storage Area,13.1705,80.2720,gas_leak,high
+SIDCO Gas Leak Zone,13.1020,80.1950,gas_leak,high
+Perungudi IT Building Collapse Zone,12.9620,80.2450,building_collapse,medium
+Guindy Metro Construction Collapse Area,13.0080,80.2200,building_collapse,medium
+Adyar Apartment Collapse Risk,13.0060,80.2560,building_collapse,medium
+Mount Road Traffic Accident Zone,13.0600,80.2650,road_accident,medium
+Kathipara Flyover Accident Zone,13.0067,80.2031,road_accident,medium
+Koyambedu Bus Stand Accident Zone,13.0690,80.1940,road_accident,medium
+Poonamallee Highway Accident Zone,13.0480,80.0940,road_accident,medium
+Chennai Port Cargo Explosion Zone,13.1025,80.2935,industrial_explosion,high
+Ambattur Factory Explosion Area,13.1000,80.1650,industrial_explosion,high
+Manali Petrochemical Explosion Zone,13.1680,80.2690,industrial_explosion,high
+North Chennai Power Plant Zone,13.2300,80.3200,power_plant_accident,high
+Ennore Thermal Plant Zone,13.2140,80.3210,power_plant_accident,high
+Poonamallee Bridge Collapse Risk,13.0480,80.0940,bridge_collapse,high
+Kathipara Bridge Collapse Risk,13.0065,80.2030,bridge_collapse,medium
+OMR Storm Flood Zone,12.9200,80.2300,storm,medium
+Marina Coastal Storm Area,13.0500,80.2820,storm,high
+ECR Cyclone Impact Area,12.8900,80.2500,cyclone,high
+Neelankarai Cyclone Impact Area,12.9490,80.2580,cyclone,high
